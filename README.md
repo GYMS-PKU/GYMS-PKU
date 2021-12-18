@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GYMS-PKU
 - 👀 I’m interested in Quantitative Investment, Machine Learning, Financial Mathematics
-- 🌱 I’m currently learning handling large project
-- 💞️ I’m looking to collaborate on Quantitative Investment
+- 🌱 I’m currently learning handling large projects
+- 💞️ I’m looking to collaborate on quantitative investment
 - 📫 e-mail 18316887409@163.com
 
 <!---
